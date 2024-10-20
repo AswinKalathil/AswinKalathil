@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswinkalathil&label=Profile%20views&color=0e75b6&style=flat" alt="aswinkalathil" /> </p>
 
-- 🔭 I’m currently working on [One Zero Tution Center - STUDENTS MANAGEMENT SOFTWARE](https://github.com/AswinKalathil/nss_connect)
+- 🔭 I’m currently working on [One Zero Tution Center - STUDENTS MANAGEMENT SOFTWARE]
 
-- 🌱 I’m currently learning **Firebase, Mongodb, Node.js**
+- 🌱 I’m currently learning **Java Spring Boot**
 
 - 📫 How to reach me **aswinpalakunnu333@gmail.com**
 
