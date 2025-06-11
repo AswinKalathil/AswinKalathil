@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aswin Kalathil</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+<h3 align="center">A passionate Flutter developer from india</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswinkalathil&label=Profile%20views&color=0e75b6&style=flat" alt="aswinkalathil" /> </p>
 
-- 🔭 I’m currently working on [One Zero Tution Center - STUDENTS MANAGEMENT SOFTWARE]
+- 🔭 I’m currently working on nothing
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
